@@ -69,19 +69,8 @@ Kode utama terletak di `sketch_dec16a.ino`. Kode ini mencakup:
 - Loop utama untuk membaca sensor dan mengirim data.
 - Handler untuk kontrol remote via MQTT.
 
-## Kontribusi
-
-Untuk berkontribusi:
-1. Fork repository ini.
-2. Buat branch baru untuk fitur Anda.
-3. Commit perubahan.
-4. Push ke branch Anda.
-5. Buat Pull Request.
 
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
 
-## Kontak
-
-Jika ada pertanyaan, hubungi [nama Anda] di [email Anda].
